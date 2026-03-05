@@ -1,6 +1,6 @@
 # TSPro
 
-Engineering initiatives and platform development projects focused on DevOps, infrastructure automation, and modern cloud-native environments.
+**TSPro (Top Secret Projects)** Engineering initiatives and platform development projects focused on DevOps, infrastructure automation, and modern cloud-native environments.
 
 ---
 
