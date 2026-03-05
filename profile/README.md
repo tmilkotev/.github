@@ -22,7 +22,7 @@ The project focuses on:
 https://github.com/tmilkotev/dotw-integration
 
 **Project Roadmap / Board**  
-https://github.com/orgs/tmilkotev/projects
+https://github.com/orgs/tmilkotev/projects/1
 
 ---
 
