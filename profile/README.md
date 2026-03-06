@@ -32,4 +32,4 @@ A modular DevOps ecosystem designed to:
 
 ## 🧭 Platform Stack
 
-🔵 TeamCity · 🚀 ArgoCD · ⎈ Kubernetes / OKD · 📦 Helm · 📚 Harbor · ⚙️ Ansible · 🏗 Terraform · 📊 Prometheus · 📈 Grafana · 🪵 Loki · 🎛 platformctl
+🐧 Linux · 🖥️ Vagrant · 🏗 Terraform · ⚙️ Ansible · 🎛 platformctl · ⎈ Kubernetes / OKD · 📦 Helm · 📚 Harbor · 🔵 TeamCity · 🚀 ArgoCD · 📊 Prometheus · 📈 Grafana · 🪵 Loki
