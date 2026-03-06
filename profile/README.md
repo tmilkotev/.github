@@ -1,41 +1,38 @@
 # TSPro
 
-**TSPro (Top Secret Projects)** Engineering initiatives and platform development projects focused on DevOps, infrastructure automation, and modern cloud-native environments.
+**TSPro (Top Secret Projects)**  
+Engineering initiatives and platform development focused on **DevOps**, **infrastructure automation**, and **cloud-native environments**.
 
 ---
 
-## Featured Project
+## 🚀 Featured Projects
 
-### DOTW — DevOpsTheWay
+### DOTW
 
-**DevOpsTheWay (DOTW, pronounced “dot-wuh”)** is a modular DevOps ecosystem designed to bootstrap reproducible engineering environments and provide a structured platform for DevOps tooling, CI/CD pipelines, and Kubernetes-based lab infrastructures.
+A modular DevOps ecosystem designed to:
 
-The project focuses on:
+* simplify workstation setup
+* provide reproducible environments
+* structure a modular platform for tooling
 
-- reproducible DevOps environments
-- infrastructure automation
-- CI/CD platform design
-- Kubernetes and OpenShift experimentation
-- DevOps training and lab environments
+**Resources**
 
-**Project Repository**  
-https://github.com/tmilkotev/dotw-integration
-
-**Project Roadmap / Board**  
-https://github.com/orgs/tmilkotev/projects/1
+* 🔗 [Project Repository](https://github.com/tmilkotev/dotw-integration)
+* 📊 [Project Board](https://github.com/orgs/tmilkotev/projects/1/views/1?filterQuery=-label%3Avision)
 
 ---
 
-## Focus Areas
+## 🧭 Focus Areas
 
-- DevOps platforms and automation
-- Infrastructure as Code
-- Kubernetes and OpenShift ecosystems
-- CI/CD architecture and tooling
-- Engineering experimentation and labs
+* platforms and automation
+* Infrastructure as Code
+* cloud-native ecosystems
+* architecture and tooling
+* labs and experimentation
+* knowledge engineering and deliberate practice
 
 ---
 
-## Organization
+## 🏗 Organization
 
-TSPro serves as a workspace for platform engineering projects, technology exploration, and DevOps ecosystem development.
+**TSPro** serves as a workspace for **engineering projects**, **automation**, **cloud-native environments**, and **technology exploration**.
