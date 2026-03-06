@@ -27,6 +27,7 @@ A modular DevOps ecosystem designed to:
 
 * 🔗 [Project Repository](https://github.com/tmilkotev/dotw-integration)
 * 📊 [Project Board](https://github.com/orgs/tmilkotev/projects/1/views/1?filterQuery=-label%3Avision)
+* 🏁 [Milestones](https://github.com/tmilkotev/dotw-integration/milestones)
 
 ---
 
