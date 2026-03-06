@@ -1,12 +1,13 @@
 # TSPro
 
-Engineering workspace for **DevOps**, **infrastructure automation**, and **cloud-native platform development**.
+**TSPro (Top Secret Projects)** — a unified modern engineering workspace for **platform development**, **DevOps**, and **infrastructure automation**.
 
-Focus:
-* platforms and automation
-* Infrastructure as Code
-* cloud-native ecosystems
-* architecture and tooling
+## 🎯 Focus
+
+* DevOps, SRE, and platform operations
+* infrastructure automation and Infrastructure as Code
+* on-premise and cloud-native ecosystems
+* platform architecture and tooling
 * labs and experimentation
 * knowledge engineering and deliberate practice
 
@@ -26,3 +27,9 @@ A modular DevOps ecosystem designed to:
 
 * 🔗 [Project Repository](https://github.com/tmilkotev/dotw-integration)
 * 📊 [Project Board](https://github.com/orgs/tmilkotev/projects/1/views/1?filterQuery=-label%3Avision)
+
+---
+
+## 🧭 Platform Stack
+
+🔵 TeamCity · 🚀 ArgoCD · ⎈ Kubernetes / OKD · 📦 Helm · 📚 Harbor · ⚙️ Ansible · 🏗 Terraform · 📊 Prometheus · 📈 Grafana · 🪵 Loki · 🎛 platformctl
